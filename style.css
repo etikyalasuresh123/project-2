@@ -1,0 +1,62 @@
+.dot1,.dot2, .dot3, .dot4, .dot5, .dot6, .dot7, .dot8 {
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    border-radius: 50%;
+   display: inline-flex;
+   margin: 5px;
+  }
+  .dot5{
+      margin-left: 50px;
+  }
+  
+  .round1,.round2, .round3,.round4, .round5, .round6, .round7,.round8{
+      height: 30px;
+    width: 30px;
+    background-color: blue;
+    border-radius: 50%;
+   display: inline-flex;
+   
+  
+  }
+  .round1{
+      margin-left: 60px;
+  }
+  .round2{
+      margin-left: 18px;
+  }
+  .round3{
+      margin-left: 52px;
+  }
+  
+  .round5{
+      margin-left: 90px;
+  }
+  .round6{
+      margin-left: 5px;
+  }
+  .round7{
+      margin-left: 80px;
+  
+  }
+  .round8{
+      margin-left: 60px;
+  }
+  .block1,.block2, .block3, .block4,.block5, .block6{
+      height: 30px;
+    width: 30px;
+    background-color: green;
+    border-radius: 50%;
+   display: inline-flex;
+   margin:5px;
+   
+  }
+  .block1{
+      margin-left: 50px;
+  }
+  .block2{
+      margin-left: 20px;
+  }
+  .block3{
+      margin-left: 20px;
+  }
